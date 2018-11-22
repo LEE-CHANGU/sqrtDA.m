@@ -1,6 +1,6 @@
 # sqrtDA.m
 ![image](https://user-images.githubusercontent.com/44903476/48919238-ea871980-eed4-11e8-8d61-4b2996e11b22.png)
-수치해석 과제로 주어진 이 문제를 matlab을 이용하여 해결해보고자 제곱근 a를 추정하는 함수를 만들어 보았습니다.
+- 수치해석 과제로 주어진 이 문제를 matlab을 이용하여 해결해보고자 제곱근 a를 추정하는 함수를 만들어 보았습니다.
 
 ````
 function [x, ea]=sqrtDA(a, guess, es)
